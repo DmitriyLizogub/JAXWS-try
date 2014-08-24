@@ -46,3 +46,5 @@ Web-service order processing is published at http://localhost:8081/OrderProcessW
 
 Check the work of Web-service you can by view WSDL:
 6) Open your browser and go to http://localhost:8081/OrderProcessWeb/orderprocess?wsdl
+
+xsd schema - http://localhost:8081/OrderProcessWeb/orderprocess?xsd=1
