@@ -32,7 +32,6 @@ hs_err_pid*
 *.ipr
 *.iml
 *.iws
-*.png
 
 ## Additional for IntelliJ
 out/
